@@ -1,4 +1,4 @@
-# emoji-cheat-sheet
+# Emoji Cheat Sheet
 ## Table of Contents
 
 - [Smileys & Emotion](#smileys--emotion)
@@ -1537,3 +1537,8 @@
 | :rage3: | `:rage3:` | :rage4: | `:rage4:` |
 | :shipit: | `:shipit:` | :suspect: | `:suspect:` |
 | :trollface: | `:trollface:` | | |
+
+## Source
+* [GitHub Emoji API](https://api.github.com/emojis)
+* [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)
+
