@@ -30,7 +30,7 @@
 - [Monkey Face](#monkey-face)
 - [Emotion](#emotion)
 
-#### Face Smiling    [[ table of contents ](#table-of-contents)]
+#### Face Smiling
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -42,7 +42,7 @@
 | :wink: | `:wink:` | :blush: | `:blush:` |
 | :innocent: | `:innocent:` | | |
 
-#### Face Affection    [[ table of contents ](#table-of-contents)]
+#### Face Affection
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -51,7 +51,7 @@
 | :kissing: | `:kissing:` | :relaxed: | `:relaxed:` |
 | :kissing_closed_eyes: | `:kissing_closed_eyes:` | :kissing_smiling_eyes: | `:kissing_smiling_eyes:` |
 
-#### Face Tongue    [[ table of contents ](#table-of-contents)]
+#### Face Tongue
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -59,14 +59,14 @@
 | :stuck_out_tongue_winking_eye: | `:stuck_out_tongue_winking_eye:` | :zany_face: | `:zany_face:` |
 | :stuck_out_tongue_closed_eyes: | `:stuck_out_tongue_closed_eyes:` | :money_mouth_face: | `:money_mouth_face:` |
 
-#### Face Hand    [[ table of contents ](#table-of-contents)]
+#### Face Hand
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
 | :hugs: | `:hugs:` | :hand_over_mouth: | `:hand_over_mouth:` |
 | :shushing_face: | `:shushing_face:` | :thinking: | `:thinking:` |
 
-#### Face Neutral Skeptical    [[ table of contents ](#table-of-contents)]
+#### Face Neutral Skeptical
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -76,7 +76,7 @@
 | :unamused: | `:unamused:` | :roll_eyes: | `:roll_eyes:` |
 | :grimacing: | `:grimacing:` | :lying_face: | `:lying_face:` |
 
-#### Face Sleepy    [[ table of contents ](#table-of-contents)]
+#### Face Sleepy
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -84,7 +84,7 @@
 | :sleepy: | `:sleepy:` | :drooling_face: | `:drooling_face:` |
 | :sleeping: | `:sleeping:` | | |
 
-#### Face Unwell    [[ table of contents ](#table-of-contents)]
+#### Face Unwell
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -95,20 +95,20 @@
 | :woozy_face: | `:woozy_face:` | :dizzy_face: | `:dizzy_face:` |
 | :exploding_head: | `:exploding_head:` | | |
 
-#### Face Hat    [[ table of contents ](#table-of-contents)]
+#### Face Hat
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
 | :cowboy_hat_face: | `:cowboy_hat_face:` | :partying_face: | `:partying_face:` |
 
-#### Face Glasses    [[ table of contents ](#table-of-contents)]
+#### Face Glasses
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
 | :sunglasses: | `:sunglasses:` | :nerd_face: | `:nerd_face:` |
 | :monocle_face: | `:monocle_face:` | | |
 
-#### Face Concerned    [[ table of contents ](#table-of-contents)]
+#### Face Concerned
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -125,7 +125,7 @@
 | :sweat: | `:sweat:` | :weary: | `:weary:` |
 | :tired_face: | `:tired_face:` | :yawning_face: | `:yawning_face:` |
 
-#### Face Negative    [[ table of contents ](#table-of-contents)]
+#### Face Negative
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -134,7 +134,7 @@
 | :smiling_imp: | `:smiling_imp:` | :imp: | `:imp:` |
 | :skull: | `:skull:` | :skull_and_crossbones: | `:skull_and_crossbones:` |
 
-#### Face Costume    [[ table of contents ](#table-of-contents)]
+#### Face Costume
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -143,7 +143,7 @@
 | :ghost: | `:ghost:` | :alien: | `:alien:` |
 | :space_invader: | `:space_invader:` | :robot: | `:robot:` |
 
-#### Cat Face    [[ table of contents ](#table-of-contents)]
+#### Cat Face
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -153,14 +153,14 @@
 | :scream_cat: | `:scream_cat:` | :crying_cat_face: | `:crying_cat_face:` |
 | :pouting_cat: | `:pouting_cat:` | | |
 
-#### Monkey Face    [[ table of contents ](#table-of-contents)]
+#### Monkey Face
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
 | :see_no_evil: | `:see_no_evil:` | :hear_no_evil: | `:hear_no_evil:` |
 | :speak_no_evil: | `:speak_no_evil:` | | |
 
-#### Emotion    [[ table of contents ](#table-of-contents)]
+#### Emotion
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -183,7 +183,7 @@
 | :right_anger_bubble: | `:right_anger_bubble:` | :thought_balloon: | `:thought_balloon:` |
 | :zzz: | `:zzz:` | | |
 
-### People & Body    [[ table of contents ](#table-of-contents)]
+### People & Body
 
 - [Hand Fingers Open](#hand-fingers-open)
 - [Hand Fingers Partial](#hand-fingers-partial)
@@ -202,7 +202,7 @@
 - [Family](#family)
 - [Person Symbol](#person-symbol)
 
-#### Hand Fingers Open    [[ table of contents ](#table-of-contents)]
+#### Hand Fingers Open
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -210,7 +210,7 @@
 | :raised_hand_with_fingers_splayed: | `:raised_hand_with_fingers_splayed:` | :hand: | `:hand:` <br /> `:raised_hand:` |
 | :vulcan_salute: | `:vulcan_salute:` | | |
 
-#### Hand Fingers Partial    [[ table of contents ](#table-of-contents)]
+#### Hand Fingers Partial
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -219,7 +219,7 @@
 | :love_you_gesture: | `:love_you_gesture:` | :metal: | `:metal:` |
 | :call_me_hand: | `:call_me_hand:` | | |
 
-#### Hand Single Finger    [[ table of contents ](#table-of-contents)]
+#### Hand Single Finger
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -227,7 +227,7 @@
 | :point_up_2: | `:point_up_2:` | :fu: | `:fu:` <br /> `:middle_finger:` |
 | :point_down: | `:point_down:` | :point_up: | `:point_up:` |
 
-#### Hand Fingers Closed    [[ table of contents ](#table-of-contents)]
+#### Hand Fingers Closed
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -235,7 +235,7 @@
 | :fist: | `:fist:` <br /> `:fist_raised:` | :facepunch: | `:facepunch:` <br /> `:fist_oncoming:` <br /> `:punch:` |
 | :fist_left: | `:fist_left:` | :fist_right: | `:fist_right:` |
 
-#### Hands    [[ table of contents ](#table-of-contents)]
+#### Hands
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -243,14 +243,14 @@
 | :open_hands: | `:open_hands:` | :palms_up_together: | `:palms_up_together:` |
 | :handshake: | `:handshake:` | :pray: | `:pray:` |
 
-#### Hand Prop    [[ table of contents ](#table-of-contents)]
+#### Hand Prop
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
 | :writing_hand: | `:writing_hand:` | :nail_care: | `:nail_care:` |
 | :selfie: | `:selfie:` | | |
 
-#### Body Parts    [[ table of contents ](#table-of-contents)]
+#### Body Parts
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -263,7 +263,7 @@
 | :eye: | `:eye:` | :tongue: | `:tongue:` |
 | :lips: | `:lips:` | | |
 
-#### Person    [[ table of contents ](#table-of-contents)]
+#### Person
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -281,7 +281,7 @@
 | :blond_haired_man: | `:blond_haired_man:` | :older_adult: | `:older_adult:` |
 | :older_man: | `:older_man:` | :older_woman: | `:older_woman:` |
 
-#### Person Gesture    [[ table of contents ](#table-of-contents)]
+#### Person Gesture
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -301,7 +301,7 @@
 | :woman_facepalming: | `:woman_facepalming:` | :shrug: | `:shrug:` |
 | :man_shrugging: | `:man_shrugging:` | :woman_shrugging: | `:woman_shrugging:` |
 
-#### Person Role    [[ table of contents ](#table-of-contents)]
+#### Person Role
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -342,7 +342,7 @@
 | :bride_with_veil: | `:bride_with_veil:` | :pregnant_woman: | `:pregnant_woman:` |
 | :breast_feeding: | `:breast_feeding:` | | |
 
-#### Person Fantasy    [[ table of contents ](#table-of-contents)]
+#### Person Fantasy
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -362,7 +362,7 @@
 | :genie_woman: | `:genie_woman:` | :zombie: | `:zombie:` |
 | :zombie_man: | `:zombie_man:` | :zombie_woman: | `:zombie_woman:` |
 
-#### Person Activity    [[ table of contents ](#table-of-contents)]
+#### Person Activity
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -387,7 +387,7 @@
 | :climbing: | `:climbing:` | :climbing_man: | `:climbing_man:` |
 | :climbing_woman: | `:climbing_woman:` | | |
 
-#### Person Sport    [[ table of contents ](#table-of-contents)]
+#### Person Sport
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -414,7 +414,7 @@
 | :juggling_person: | `:juggling_person:` | :man_juggling: | `:man_juggling:` |
 | :woman_juggling: | `:woman_juggling:` | | |
 
-#### Person Resting    [[ table of contents ](#table-of-contents)]
+#### Person Resting
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -422,7 +422,7 @@
 | :lotus_position_woman: | `:lotus_position_woman:` | :bath: | `:bath:` |
 | :sleeping_bed: | `:sleeping_bed:` | | |
 
-#### Family    [[ table of contents ](#table-of-contents)]
+#### Family
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -446,7 +446,7 @@
 | :family_woman_boy_boy: | `:family_woman_boy_boy:` | :family_woman_girl: | `:family_woman_girl:` |
 | :family_woman_girl_boy: | `:family_woman_girl_boy:` | :family_woman_girl_girl: | `:family_woman_girl_girl:` |
 
-#### Person Symbol    [[ table of contents ](#table-of-contents)]
+#### Person Symbol
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -463,7 +463,7 @@
 - [Plant Flower](#plant-flower)
 - [Plant Other](#plant-other)
 
-#### Animal Mammal    [[ table of contents ](#table-of-contents)]
+#### Animal Mammal
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -498,7 +498,7 @@
 | :kangaroo: | `:kangaroo:` | :badger: | `:badger:` |
 | :feet: | `:feet:` <br /> `:paw_prints:` | | |
 
-#### Animal Bird    [[ table of contents ](#table-of-contents)]
+#### Animal Bird
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -511,13 +511,13 @@
 | :owl: | `:owl:` | :flamingo: | `:flamingo:` |
 | :peacock: | `:peacock:` | :parrot: | `:parrot:` |
 
-#### Animal Amphibian    [[ table of contents ](#table-of-contents)]
+#### Animal Amphibian
 
 | ico | shortcode | |
 | - | :-: | - | - |
 | :frog: | `:frog:` |
 
-#### Animal Reptile    [[ table of contents ](#table-of-contents)]
+#### Animal Reptile
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -526,7 +526,7 @@
 | :dragon_face: | `:dragon_face:` | :dragon: | `:dragon:` |
 | :sauropod: | `:sauropod:` | :t-rex: | `:t-rex:` |
 
-#### Animal Marine    [[ table of contents ](#table-of-contents)]
+#### Animal Marine
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -536,7 +536,7 @@
 | :shark: | `:shark:` | :octopus: | `:octopus:` |
 | :shell: | `:shell:` | | |
 
-#### Animal Bug    [[ table of contents ](#table-of-contents)]
+#### Animal Bug
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -547,7 +547,7 @@
 | :spider_web: | `:spider_web:` | :scorpion: | `:scorpion:` |
 | :mosquito: | `:mosquito:` | :microbe: | `:microbe:` |
 
-#### Plant Flower    [[ table of contents ](#table-of-contents)]
+#### Plant Flower
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -557,7 +557,7 @@
 | :hibiscus: | `:hibiscus:` | :sunflower: | `:sunflower:` |
 | :blossom: | `:blossom:` | :tulip: | `:tulip:` |
 
-#### Plant Other    [[ table of contents ](#table-of-contents)]
+#### Plant Other
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -568,7 +568,7 @@
 | :four_leaf_clover: | `:four_leaf_clover:` | :maple_leaf: | `:maple_leaf:` |
 | :fallen_leaf: | `:fallen_leaf:` | :leaves: | `:leaves:` |
 
-### Food & Drink    [[ table of contents ](#table-of-contents)]
+### Food & Drink
 
 - [Food Fruit](#food-fruit)
 - [Food Vegetable](#food-vegetable)
@@ -579,7 +579,7 @@
 - [Drink](#drink)
 - [Dishware](#dishware)
 
-#### Food Fruit    [[ table of contents ](#table-of-contents)]
+#### Food Fruit
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -593,7 +593,7 @@
 | :kiwi_fruit: | `:kiwi_fruit:` | :tomato: | `:tomato:` |
 | :coconut: | `:coconut:` | | |
 
-#### Food Vegetable    [[ table of contents ](#table-of-contents)]
+#### Food Vegetable
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -605,7 +605,7 @@
 | :onion: | `:onion:` | :mushroom: | `:mushroom:` |
 | :peanuts: | `:peanuts:` | :chestnut: | `:chestnut:` |
 
-#### Food Prepared    [[ table of contents ](#table-of-contents)]
+#### Food Prepared
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -626,7 +626,7 @@
 | :butter: | `:butter:` | :salt: | `:salt:` |
 | :canned_food: | `:canned_food:` | | |
 
-#### Food Asian    [[ table of contents ](#table-of-contents)]
+#### Food Asian
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -640,7 +640,7 @@
 | :dumpling: | `:dumpling:` | :fortune_cookie: | `:fortune_cookie:` |
 | :takeout_box: | `:takeout_box:` | | |
 
-#### Food Marine    [[ table of contents ](#table-of-contents)]
+#### Food Marine
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -648,7 +648,7 @@
 | :shrimp: | `:shrimp:` | :squid: | `:squid:` |
 | :oyster: | `:oyster:` | | |
 
-#### Food Sweet    [[ table of contents ](#table-of-contents)]
+#### Food Sweet
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -660,7 +660,7 @@
 | :candy: | `:candy:` | :lollipop: | `:lollipop:` |
 | :custard: | `:custard:` | :honey_pot: | `:honey_pot:` |
 
-#### Drink    [[ table of contents ](#table-of-contents)]
+#### Drink
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -674,7 +674,7 @@
 | :beverage_box: | `:beverage_box:` | :mate: | `:mate:` |
 | :ice_cube: | `:ice_cube:` | | |
 
-#### Dishware    [[ table of contents ](#table-of-contents)]
+#### Dishware
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -696,7 +696,7 @@
 - [Time](#time)
 - [Sky & Weather](#sky--weather)
 
-#### Place Map    [[ table of contents ](#table-of-contents)]
+#### Place Map
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -705,7 +705,7 @@
 | :world_map: | `:world_map:` | :japan: | `:japan:` |
 | :compass: | `:compass:` | | |
 
-#### Place Geographic    [[ table of contents ](#table-of-contents)]
+#### Place Geographic
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -715,7 +715,7 @@
 | :desert: | `:desert:` | :desert_island: | `:desert_island:` |
 | :national_park: | `:national_park:` | | |
 
-#### Place Building    [[ table of contents ](#table-of-contents)]
+#### Place Building
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -732,7 +732,7 @@
 | :european_castle: | `:european_castle:` | :wedding: | `:wedding:` |
 | :tokyo_tower: | `:tokyo_tower:` | :statue_of_liberty: | `:statue_of_liberty:` |
 
-#### Place Religious    [[ table of contents ](#table-of-contents)]
+#### Place Religious
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -740,7 +740,7 @@
 | :hindu_temple: | `:hindu_temple:` | :synagogue: | `:synagogue:` |
 | :shinto_shrine: | `:shinto_shrine:` | :kaaba: | `:kaaba:` |
 
-#### Place Other    [[ table of contents ](#table-of-contents)]
+#### Place Other
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -753,7 +753,7 @@
 | :ferris_wheel: | `:ferris_wheel:` | :roller_coaster: | `:roller_coaster:` |
 | :barber: | `:barber:` | :circus_tent: | `:circus_tent:` |
 
-#### Transport Ground    [[ table of contents ](#table-of-contents)]
+#### Transport Ground
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -782,7 +782,7 @@
 | :vertical_traffic_light: | `:vertical_traffic_light:` | :stop_sign: | `:stop_sign:` |
 | :construction: | `:construction:` | | |
 
-#### Transport Water    [[ table of contents ](#table-of-contents)]
+#### Transport Water
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -791,7 +791,7 @@
 | :passenger_ship: | `:passenger_ship:` | :ferry: | `:ferry:` |
 | :motor_boat: | `:motor_boat:` | :ship: | `:ship:` |
 
-#### Transport Air    [[ table of contents ](#table-of-contents)]
+#### Transport Air
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -803,13 +803,13 @@
 | :artificial_satellite: | `:artificial_satellite:` | :rocket: | `:rocket:` |
 | :flying_saucer: | `:flying_saucer:` | | |
 
-#### Hotel    [[ table of contents ](#table-of-contents)]
+#### Hotel
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
 | :bellhop_bell: | `:bellhop_bell:` | :luggage: | `:luggage:` |
 
-#### Time    [[ table of contents ](#table-of-contents)]
+#### Time
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -830,7 +830,7 @@
 | :clock1030: | `:clock1030:` | :clock11: | `:clock11:` |
 | :clock1130: | `:clock1130:` | | |
 
-#### Sky & Weather    [[ table of contents ](#table-of-contents)]
+#### Sky & Weather
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -867,7 +867,7 @@
 - [Game](#game)
 - [Arts & Crafts](#arts--crafts)
 
-#### Event    [[ table of contents ](#table-of-contents)]
+#### Event
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -883,7 +883,7 @@
 | :reminder_ribbon: | `:reminder_ribbon:` | :tickets: | `:tickets:` |
 | :ticket: | `:ticket:` | | |
 
-#### Award Medal    [[ table of contents ](#table-of-contents)]
+#### Award Medal
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -891,7 +891,7 @@
 | :medal_sports: | `:medal_sports:` | :1st_place_medal: | `:1st_place_medal:` |
 | :2nd_place_medal: | `:2nd_place_medal:` | :3rd_place_medal: | `:3rd_place_medal:` |
 
-#### Sport    [[ table of contents ](#table-of-contents)]
+#### Sport
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -910,7 +910,7 @@
 | :ski: | `:ski:` | :sled: | `:sled:` |
 | :curling_stone: | `:curling_stone:` | | |
 
-#### Game    [[ table of contents ](#table-of-contents)]
+#### Game
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -925,7 +925,7 @@
 | :chess_pawn: | `:chess_pawn:` | :black_joker: | `:black_joker:` |
 | :mahjong: | `:mahjong:` | :flower_playing_cards: | `:flower_playing_cards:` |
 
-#### Arts & Crafts    [[ table of contents ](#table-of-contents)]
+#### Arts & Crafts
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -933,7 +933,7 @@
 | :art: | `:art:` | :thread: | `:thread:` |
 | :yarn: | `:yarn:` | | |
 
-### Objects    [[ table of contents ](#table-of-contents)]
+### Objects
 
 - [Clothing](#clothing)
 - [Sound](#sound)
@@ -954,7 +954,7 @@
 - [Household](#household)
 - [Other Object](#other-object)
 
-#### Clothing    [[ table of contents ](#table-of-contents)]
+#### Clothing
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -981,7 +981,7 @@
 | :lipstick: | `:lipstick:` | :ring: | `:ring:` |
 | :gem: | `:gem:` | | |
 
-#### Sound    [[ table of contents ](#table-of-contents)]
+#### Sound
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -991,7 +991,7 @@
 | :postal_horn: | `:postal_horn:` | :bell: | `:bell:` |
 | :no_bell: | `:no_bell:` | | |
 
-#### Music    [[ table of contents ](#table-of-contents)]
+#### Music
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1001,7 +1001,7 @@
 | :microphone: | `:microphone:` | :headphones: | `:headphones:` |
 | :radio: | `:radio:` | | |
 
-#### Musical Instrument    [[ table of contents ](#table-of-contents)]
+#### Musical Instrument
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1010,7 +1010,7 @@
 | :violin: | `:violin:` | :banjo: | `:banjo:` |
 | :drum: | `:drum:` | | |
 
-#### Phone    [[ table of contents ](#table-of-contents)]
+#### Phone
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1018,7 +1018,7 @@
 | :phone: | `:phone:` <br /> `:telephone:` | :telephone_receiver: | `:telephone_receiver:` |
 | :pager: | `:pager:` | :fax: | `:fax:` |
 
-#### Computer    [[ table of contents ](#table-of-contents)]
+#### Computer
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1030,7 +1030,7 @@
 | :cd: | `:cd:` | :dvd: | `:dvd:` |
 | :abacus: | `:abacus:` | | |
 
-#### Light & Video    [[ table of contents ](#table-of-contents)]
+#### Light & Video
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1043,7 +1043,7 @@
 | :bulb: | `:bulb:` | :flashlight: | `:flashlight:` |
 | :izakaya_lantern: | `:izakaya_lantern:` <br /> `:lantern:` | :diya_lamp: | `:diya_lamp:` |
 
-#### Book Paper    [[ table of contents ](#table-of-contents)]
+#### Book Paper
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1057,7 +1057,7 @@
 | :bookmark_tabs: | `:bookmark_tabs:` | :bookmark: | `:bookmark:` |
 | :label: | `:label:` | | |
 
-#### Money    [[ table of contents ](#table-of-contents)]
+#### Money
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1067,7 +1067,7 @@
 | :credit_card: | `:credit_card:` | :receipt: | `:receipt:` |
 | :chart: | `:chart:` | | |
 
-#### Mail    [[ table of contents ](#table-of-contents)]
+#### Mail
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1079,7 +1079,7 @@
 | :mailbox_with_no_mail: | `:mailbox_with_no_mail:` | :postbox: | `:postbox:` |
 | :ballot_box: | `:ballot_box:` | | |
 
-#### Writing    [[ table of contents ](#table-of-contents)]
+#### Writing
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1088,7 +1088,7 @@
 | :paintbrush: | `:paintbrush:` | :crayon: | `:crayon:` |
 | :memo: | `:memo:` <br /> `:pencil:` | | |
 
-#### Office    [[ table of contents ](#table-of-contents)]
+#### Office
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1105,7 +1105,7 @@
 | :card_file_box: | `:card_file_box:` | :file_cabinet: | `:file_cabinet:` |
 | :wastebasket: | `:wastebasket:` | | |
 
-#### Lock    [[ table of contents ](#table-of-contents)]
+#### Lock
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1113,7 +1113,7 @@
 | :lock_with_ink_pen: | `:lock_with_ink_pen:` | :closed_lock_with_key: | `:closed_lock_with_key:` |
 | :key: | `:key:` | :old_key: | `:old_key:` |
 
-#### Tool    [[ table of contents ](#table-of-contents)]
+#### Tool
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1128,7 +1128,7 @@
 | :link: | `:link:` | :chains: | `:chains:` |
 | :toolbox: | `:toolbox:` | :magnet: | `:magnet:` |
 
-#### Science    [[ table of contents ](#table-of-contents)]
+#### Science
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1137,7 +1137,7 @@
 | :microscope: | `:microscope:` | :telescope: | `:telescope:` |
 | :satellite: | `:satellite:` | | |
 
-#### Medical    [[ table of contents ](#table-of-contents)]
+#### Medical
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1145,7 +1145,7 @@
 | :pill: | `:pill:` | :adhesive_bandage: | `:adhesive_bandage:` |
 | :stethoscope: | `:stethoscope:` | | |
 
-#### Household    [[ table of contents ](#table-of-contents)]
+#### Household
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1159,7 +1159,7 @@
 | :sponge: | `:sponge:` | :fire_extinguisher: | `:fire_extinguisher:` |
 | :shopping_cart: | `:shopping_cart:` | | |
 
-#### Other Object    [[ table of contents ](#table-of-contents)]
+#### Other Object
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1183,7 +1183,7 @@
 - [Alphanum](#alphanum)
 - [Geometric](#geometric)
 
-#### Transport Sign    [[ table of contents ](#table-of-contents)]
+#### Transport Sign
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1195,7 +1195,7 @@
 | :customs: | `:customs:` | :baggage_claim: | `:baggage_claim:` |
 | :left_luggage: | `:left_luggage:` | | |
 
-#### Warning    [[ table of contents ](#table-of-contents)]
+#### Warning
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1207,7 +1207,7 @@
 | :underage: | `:underage:` | :radioactive: | `:radioactive:` |
 | :biohazard: | `:biohazard:` | | |
 
-#### Arrow    [[ table of contents ](#table-of-contents)]
+#### Arrow
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1223,7 +1223,7 @@
 | :on: | `:on:` | :soon: | `:soon:` |
 | :top: | `:top:` | | |
 
-#### Religion    [[ table of contents ](#table-of-contents)]
+#### Religion
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1234,7 +1234,7 @@
 | :star_and_crescent: | `:star_and_crescent:` | :peace_symbol: | `:peace_symbol:` |
 | :menorah: | `:menorah:` | :six_pointed_star: | `:six_pointed_star:` |
 
-#### Zodiac    [[ table of contents ](#table-of-contents)]
+#### Zodiac
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1246,7 +1246,7 @@
 | :aquarius: | `:aquarius:` | :pisces: | `:pisces:` |
 | :ophiuchus: | `:ophiuchus:` | | |
 
-#### Av Symbol    [[ table of contents ](#table-of-contents)]
+#### Av Symbol
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1263,13 +1263,13 @@
 | :high_brightness: | `:high_brightness:` | :signal_strength: | `:signal_strength:` |
 | :vibration_mode: | `:vibration_mode:` | :mobile_phone_off: | `:mobile_phone_off:` |
 
-#### Gender    [[ table of contents ](#table-of-contents)]
+#### Gender
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
 | :female_sign: | `:female_sign:` | :male_sign: | `:male_sign:` |
 
-#### Math    [[ table of contents ](#table-of-contents)]
+#### Math
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1277,7 +1277,7 @@
 | :heavy_minus_sign: | `:heavy_minus_sign:` | :heavy_division_sign: | `:heavy_division_sign:` |
 | :infinity: | `:infinity:` | | |
 
-#### Punctuation    [[ table of contents ](#table-of-contents)]
+#### Punctuation
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1286,13 +1286,13 @@
 | :grey_exclamation: | `:grey_exclamation:` | :exclamation: | `:exclamation:` <br /> `:heavy_exclamation_mark:` |
 | :wavy_dash: | `:wavy_dash:` | | |
 
-#### Currency    [[ table of contents ](#table-of-contents)]
+#### Currency
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
 | :currency_exchange: | `:currency_exchange:` | :heavy_dollar_sign: | `:heavy_dollar_sign:` |
 
-#### Other Symbol    [[ table of contents ](#table-of-contents)]
+#### Other Symbol
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1308,7 +1308,7 @@
 | :copyright: | `:copyright:` | :registered: | `:registered:` |
 | :tm: | `:tm:` | | |
 
-#### Keycap    [[ table of contents ](#table-of-contents)]
+#### Keycap
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1320,7 +1320,7 @@
 | :eight: | `:eight:` | :nine: | `:nine:` |
 | :keycap_ten: | `:keycap_ten:` | | |
 
-#### Alphanum    [[ table of contents ](#table-of-contents)]
+#### Alphanum
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1345,7 +1345,7 @@
 | :secret: | `:secret:` | :u55b6: | `:u55b6:` |
 | :u6e80: | `:u6e80:` | | |
 
-#### Geometric    [[ table of contents ](#table-of-contents)]
+#### Geometric
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1373,7 +1373,7 @@
 - [Country Flag](#country-flag)
 - [Subdivision Flag](#subdivision-flag)
 
-#### Flag    [[ table of contents ](#table-of-contents)]
+#### Flag
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
@@ -1382,7 +1382,7 @@
 | :white_flag: | `:white_flag:` | :rainbow_flag: | `:rainbow_flag:` |
 | :pirate_flag: | `:pirate_flag:` | | |
 
-#### Country Flag    [[ table of contents ](#table-of-contents)]
+#### Country Flag
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
