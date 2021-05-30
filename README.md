@@ -1516,14 +1516,14 @@
 | :mayotte: | `:mayotte:` | :south_africa: | `:south_africa:` |
 | :zambia: | `:zambia:` | :zimbabwe: | `:zimbabwe:` |
 
-#### Subdivision Flag    [[ table of contents ](#table-of-contents)]
+#### Subdivision Flag
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
 | :england: | `:england:` | :scotland: | `:scotland:` |
 | :wales: | `:wales:` | | |
 
-### GitHub Custom Emoji    [[ table of contents ](#table-of-contents)]
+### GitHub Custom Emoji
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
