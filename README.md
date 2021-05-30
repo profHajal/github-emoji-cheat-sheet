@@ -34,7 +34,7 @@
 
 | ico | shortcode | ico | shortcode |
 | :-: | - | :-: | - |
-| :grinning: | `:grinning:` | :smiley: | `:smiley:` | [top](#table-of-contents) |
+| :grinning: | `:grinning:` | :smiley: | `:smiley:` | 
 | :smile: | `:smile:` | :grin: | `:grin:` |
 | :laughing: | `:laughing:` <br /> `:satisfied:` | :sweat_smile: | `:sweat_smile:` |
 | :rofl: | `:rofl:` | :joy: | `:joy:` |
