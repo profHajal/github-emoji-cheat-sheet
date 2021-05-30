@@ -1539,6 +1539,6 @@
 | :trollface: | `:trollface:` | | |
 
 ## Source
-* [GitHub Emoji API](https://api.github.com/emojis)
-* [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)
+* [*GitHub Emoji API*](https://api.github.com/emojis)
+* [*Unicode Full Emoji List*](https://unicode.org/emoji/charts/full-emoji-list.html)
 
